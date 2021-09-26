@@ -5,7 +5,7 @@
   <p>
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hmartiins/plantmanager?color=%232196F3">
     <a href="https://www.linkedin.com/in/gustavo-castilho-914a621b4/" target="_blank" rel="noopener noreferrer">
-      <img alt="Made by" src="https://img.shields.io/badge/made%20by-Henrique%20Martins-%232196F3">
+      <img alt="Made by" src="https://img.shields.io/badge/made%20by-Gustavo%20Castilho-%232196F3">
     </a>          
     <img alt="GitHub" src="https://img.shields.io/github/license/hmartiins/plantmanager?color=%232196F3">
   </p>
